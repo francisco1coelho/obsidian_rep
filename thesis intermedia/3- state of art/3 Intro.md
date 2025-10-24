@@ -1,3 +1,13 @@
+[1] User → prompt em linguagem natural
+       ↓
+[2] LLM → interpreta + usa camada semântica
+       ↓
+[3] LLM → escolhe função e gera JSON estruturado
+       ↓
+[4] Backend → valida JSON + executa função real
+       ↓
+[5] Renderer → mostra o resultado (dashboard, query, etc.)
+
 # Estrutura resumida
 
 | Etapa                     | Exemplos de tecnologia          | Vantagens         | Limitações                   | Aderência ao teu projeto        |
@@ -7,7 +17,7 @@
 | 3. JSON Generation        | Function Calling; Guardrails    | Saída estruturada | JSON inválido sem restrições | “Valid JSON configuration”      |
 | 4. Validation & Rendering | JSON Schema; renderer existente | Execução imediata | Só sintaxe ≠ semântica       | Integração com motor existente  |
 | 5. Refinement Loop        | ReAct; JSON patch               | Iteração rápida   | Gestão de estado             | Feedback loop explícito         |
-|                           |                                 |                   |                              |                                 |
+
 
 
 1. **Usar um que tenha uma API publica** 
