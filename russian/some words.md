@@ -16,9 +16,10 @@
 Как дела - kak dela - como estás?
 хороший - khoroshiy -bem
 быстрый - bystryy - rápido
-1 -
-2 -
-3 -
+eto- eto - este
+1 - 
+2 - dva
+3 - tri
 4 -
 5 -
 6 -
