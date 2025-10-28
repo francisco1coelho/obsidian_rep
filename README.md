@@ -15,7 +15,7 @@ sobre o semantic mapping -> falar com o tiago para tentar saber como é que é s
 - ==Descobrir como são gerados os JSON==
 - ==Ver que API posso usar (em principio vai ser a deles)==
 - ==Saber se tenho que enviar o semantic mapping para o LLM ter contexto ou ele consegue de alguma forma gerar o JSON bem==
-
+- ==Ou o LLM vai simplesmente ter que saber quais são as métricas apresentar sem ter que gerar o widget?==
 
 
 **NEXT STEPS**
